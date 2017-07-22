@@ -1,3 +1,7 @@
 /Turbidostat/build/
 /Turbidostat/nbproject/private/
 /Turbidostat/dist/
+Turbidostat/nbproject/configs/RPi_j.properties
+Turbidostat/nbproject/remote-platform-impl.xml
+Turbidostat/nbproject/genfiles.properties
+Turbidostat/nbproject/build-impl.xml
