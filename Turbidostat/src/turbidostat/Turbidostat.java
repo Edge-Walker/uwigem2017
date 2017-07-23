@@ -16,6 +16,8 @@ public class Turbidostat {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+        System.console().printf("Turbidostat master control is running");
     }
     
 }
